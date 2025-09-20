@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class JavaTask {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
-        
         System.out.print("Enter the first integer: ");
         int num1 = sc.nextInt();
 
@@ -50,4 +48,5 @@ public class JavaTask {
         
         sc.close();
     }
+
 }
